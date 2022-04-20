@@ -5,7 +5,7 @@
     <string name="spoon">spoon</string>
     <string name="placeholder">temperature</string>
     <string name="placeholder_distance">distance</string>
-    <string name="placeholder_spoon">distance</string>
+    <string name="placeholder_spoon">Table Spoon</string>
     <string name="convert">Convert</string>
 
     <string name="celsius">°C</string>
